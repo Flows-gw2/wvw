@@ -1,0 +1,44 @@
+[
+  {
+    "id": "20260223-201349-atqm",
+    "title": "Flowsn, Hidden Serial, Luna Shadowblossom, Might Be A Spoon, Strádùs",
+    "commanders": [
+      "Flowsn",
+      "Hidden Serial",
+      "Luna Shadowblossom",
+      "Might Be A Spoon",
+      "Strádùs"
+    ],
+    "dateStart": "2026-02-23T19:13:49.000Z",
+    "dateEnd": "2026-03-09T20:21:11.000Z",
+    "dateLabel": "23.2.2026, 20:13:49 - 9.3.2026, 21:21:11",
+    "url": "https://Flows-gw2.github.io/wvw/?report=20260223-201349-atqm",
+    "summary": {
+      "borderlandsPct": 0.8571428571428571,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 57,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 25,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 16,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 14,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 20,
+      "avgEnemySize": 33
+    }
+  }
+]
