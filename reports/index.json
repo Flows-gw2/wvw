@@ -1,5 +1,34 @@
 [
   {
+    "id": "20260314-191108-pce1",
+    "title": "Flowsn, Human Tamed A Cat",
+    "commanders": [
+      "Flowsn",
+      "Human Tamed A Cat"
+    ],
+    "dateStart": "2026-03-14T18:11:08.000Z",
+    "dateEnd": "2026-03-14T21:34:00.000Z",
+    "dateLabel": "14.3.2026, 19:11:08 - 14.3.2026, 22:34:00",
+    "url": "https://Flows-gw2.github.io/wvw/?report=20260314-191108-pce1",
+    "summary": {
+      "borderlandsPct": 0.023809523809523808,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 41,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 1,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 28,
+      "avgEnemySize": 38
+    }
+  },
+  {
     "id": "20260223-201349-atqm",
     "title": "Flowsn, Hidden Serial, Luna Shadowblossom, Might Be A Spoon, Strádùs",
     "commanders": [
