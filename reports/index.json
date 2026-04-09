@@ -6,6 +6,37 @@
   },
   "entries": [
     {
+      "id": "20260409-192724-9gav",
+      "title": "Dalaxis, Fake P M A Zazz, Flowsn, Serial Attuned",
+      "commanders": [
+        "Dalaxis",
+        "Fake P M A Zazz",
+        "Flowsn",
+        "Serial Attuned"
+      ],
+      "dateStart": "2026-04-09T17:27:24.000Z",
+      "dateEnd": "2026-04-09T19:58:33.000Z",
+      "dateLabel": "9.4.2026, 19:27:24 - 9.4.2026, 21:58:33",
+      "url": "https://Flows-gw2.github.io/wvw/?report=20260409-192724-9gav",
+      "summary": {
+        "borderlandsPct": 0.4838709677419355,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 15,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260404-200147-wn3p",
       "title": "Dalaxis",
       "commanders": [
