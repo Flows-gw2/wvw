@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260412-211620-wakh",
+      "title": "The Merci",
+      "commanders": [
+        "The Merci"
+      ],
+      "dateStart": "2026-04-12T19:16:20.000Z",
+      "dateEnd": "2026-04-12T19:42:13.000Z",
+      "dateLabel": "12.4.2026, 21:16:20 - 12.4.2026, 21:42:13",
+      "url": "https://Flows-gw2.github.io/wvw/?report=20260412-211620-wakh",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 10,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20260411-194539-13uw",
       "title": "Dalaxis",
       "commanders": [
