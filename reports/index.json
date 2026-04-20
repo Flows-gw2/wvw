@@ -1,10 +1,30 @@
 {
-  "siteTheme": {
-    "ui": "classic",
-    "paletteId": "Arcane",
-    "kineticFont": "default"
-  },
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
   "entries": [
+    {
+      "id": "20260420-202417-pj2y",
+      "title": "Dalaxis",
+      "commanders": [
+        "Dalaxis"
+      ],
+      "dateStart": "2026-04-20T18:24:17.000Z",
+      "dateEnd": "2026-04-20T19:22:52.000Z",
+      "dateLabel": "20.4.2026, 20:24:17 - 20.4.2026, 21:22:52",
+      "url": "https://Flows-gw2.github.io/wvw/?report=20260420-202417-pj2y",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 30,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 36
+      }
+    },
     {
       "id": "20260413-193332-5478",
       "title": "Dalaxis",
