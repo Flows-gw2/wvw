@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260430-203036-xsib",
+      "title": "Dalaxis",
+      "commanders": [
+        "Dalaxis"
+      ],
+      "dateStart": "2026-04-30T18:30:36.000Z",
+      "dateEnd": "2026-04-30T19:22:09.000Z",
+      "dateLabel": "30.4.2026, 20:30:36 - 30.4.2026, 21:22:09",
+      "url": "https://Flows-gw2.github.io/wvw/?report=20260430-203036-xsib",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 31,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260420-202417-pj2y",
       "title": "Dalaxis",
       "commanders": [
