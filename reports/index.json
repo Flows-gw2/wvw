@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260502-194213-ti5e",
+      "title": "Dalaxis",
+      "commanders": [
+        "Dalaxis"
+      ],
+      "dateStart": "2026-05-02T17:42:13.000Z",
+      "dateEnd": "2026-05-02T19:40:19.000Z",
+      "dateLabel": "2.5.2026, 19:42:13 - 2.5.2026, 21:40:19",
+      "url": "https://Flows-gw2.github.io/wvw/?report=20260502-194213-ti5e",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260502-193927-gdq8",
       "title": "Dalaxis",
       "commanders": [
