@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260505-203152-bhaz",
+      "title": "Might Be Mariachi",
+      "commanders": [
+        "Might Be Mariachi"
+      ],
+      "dateStart": "2026-05-05T18:31:52.000Z",
+      "dateEnd": "2026-05-05T19:13:38.000Z",
+      "dateLabel": "5.5.2026, 20:31:52 - 5.5.2026, 21:13:38",
+      "url": "https://Flows-gw2.github.io/wvw/?report=20260505-203152-bhaz",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260504-203015-68dm",
       "title": "Dalaxis",
       "commanders": [
