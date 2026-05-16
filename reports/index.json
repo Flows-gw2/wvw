@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260516-210316-g52b",
+      "title": "Dalaxis",
+      "commanders": [
+        "Dalaxis"
+      ],
+      "dateStart": "2026-05-16T19:03:16.000Z",
+      "dateEnd": "2026-05-16T19:28:00.000Z",
+      "dateLabel": "16.5.2026, 21:03:16 - 16.5.2026, 21:28:00",
+      "url": "https://Flows-gw2.github.io/wvw/?report=20260516-210316-g52b",
+      "summary": {
+        "borderlandsPct": 0.10526315789473684,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 34,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20260514-203431-qq7z",
       "title": "Flowsn",
       "commanders": [
