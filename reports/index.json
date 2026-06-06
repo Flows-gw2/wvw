@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260606-205245-y3zk",
+      "title": "Sarah Carigan",
+      "commanders": [
+        "Sarah Carigan"
+      ],
+      "dateStart": "2026-06-06T18:52:45.000Z",
+      "dateEnd": "2026-06-06T19:58:19.000Z",
+      "dateLabel": "6.6.2026, 20:52:45 - 6.6.2026, 21:58:19",
+      "url": "https://Flows-gw2.github.io/wvw/?report=20260606-205245-y3zk",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 37,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20260516-210316-g52b",
       "title": "Dalaxis",
       "commanders": [
