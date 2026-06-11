@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260611-204624-mgz3",
+      "title": "Flowsn",
+      "commanders": [
+        "Flowsn"
+      ],
+      "dateStart": "2026-06-11T18:46:24.000Z",
+      "dateEnd": "2026-06-11T19:23:33.000Z",
+      "dateLabel": "11.6.2026, 20:46:24 - 11.6.2026, 21:23:33",
+      "url": "https://Flows-gw2.github.io/wvw/?report=20260611-204624-mgz3",
+      "summary": {
+        "borderlandsPct": 0.37142857142857144,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 7,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 6,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260606-205245-y3zk",
       "title": "Sarah Carigan",
       "commanders": [
