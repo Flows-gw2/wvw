@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260713-204926-25pg",
+      "title": "Flowsn",
+      "commanders": [
+        "Flowsn"
+      ],
+      "dateStart": "2026-07-13T18:49:26.000Z",
+      "dateEnd": "2026-07-13T19:34:24.000Z",
+      "dateLabel": "13.7.2026, 20:49:26 - 13.7.2026, 21:34:24",
+      "url": "https://Flows-gw2.github.io/wvw/?report=20260713-204926-25pg",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 34,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260709-202434-ay21",
       "title": "Flowsn",
       "commanders": [
