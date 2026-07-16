@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260716-204720-2038",
+      "title": "Flowsn",
+      "commanders": [
+        "Flowsn"
+      ],
+      "dateStart": "2026-07-16T18:47:20.000Z",
+      "dateEnd": "2026-07-16T19:28:37.000Z",
+      "dateLabel": "16.7.2026, 20:47:20 - 16.7.2026, 21:28:37",
+      "url": "https://Flows-gw2.github.io/wvw/?report=20260716-204720-2038",
+      "summary": {
+        "borderlandsPct": 0.1388888888888889,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 31,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260713-204926-25pg",
       "title": "Flowsn",
       "commanders": [
