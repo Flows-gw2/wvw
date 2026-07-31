@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260731-210437-doat",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "dateStart": "2026-07-31T19:04:37.000Z",
+      "dateEnd": "2026-07-31T20:00:54.000Z",
+      "dateLabel": "31.7.2026, 21:04:37 - 31.7.2026, 22:00:54",
+      "url": "https://Flows-gw2.github.io/wvw/?report=20260731-210437-doat",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 27,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 46,
+        "avgEnemySize": 54
+      }
+    },
+    {
       "id": "20260718-203643-ggmw",
       "title": "Flowsn",
       "commanders": [
