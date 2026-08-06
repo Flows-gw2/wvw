@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260806-203918-d3bh",
+      "title": "Flowsn",
+      "commanders": [
+        "Flowsn"
+      ],
+      "guild": {
+        "id": "E377E769-5DBB-46EC-8DF5-07253C9A46DB",
+        "name": "Death By Tea",
+        "tag": "CUP"
+      },
+      "dateStart": "2026-08-06T18:39:18.000Z",
+      "dateEnd": "2026-08-06T19:19:45.000Z",
+      "dateLabel": "6.8.2026, 20:39:18 - 6.8.2026, 21:19:45",
+      "url": "https://Flows-gw2.github.io/wvw/?report=20260806-203918-d3bh",
+      "summary": {
+        "borderlandsPct": 0.967741935483871,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 15,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 15,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20260731-210437-doat",
       "title": "Just Mad N Fluffy",
       "commanders": [
