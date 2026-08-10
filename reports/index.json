@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260810-204222-80ii",
+      "title": "Dalaxis",
+      "commanders": [
+        "Dalaxis"
+      ],
+      "guild": {
+        "id": "E377E769-5DBB-46EC-8DF5-07253C9A46DB",
+        "name": "Death By Tea",
+        "tag": "CUP"
+      },
+      "dateStart": "2026-08-10T18:42:22.000Z",
+      "dateEnd": "2026-08-10T19:20:29.000Z",
+      "dateLabel": "10.8.2026, 20:42:22 - 10.8.2026, 21:20:29",
+      "url": "https://Flows-gw2.github.io/wvw/?report=20260810-204222-80ii",
+      "summary": {
+        "borderlandsPct": 0.1724137931034483,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260806-203918-d3bh",
       "title": "Flowsn",
       "commanders": [
