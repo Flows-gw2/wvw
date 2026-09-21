@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260921-205411-b4g7",
+      "title": "Flowsn",
+      "commanders": [
+        "Flowsn"
+      ],
+      "guild": {
+        "id": "E377E769-5DBB-46EC-8DF5-07253C9A46DB",
+        "name": "Death By Tea",
+        "tag": "CUP"
+      },
+      "dateStart": "2026-09-21T18:54:11.000Z",
+      "dateEnd": "2026-09-21T19:29:07.572Z",
+      "dateLabel": "21.9.2026, 20:54:11 - 21.9.2026, 21:29:07",
+      "url": "https://Flows-gw2.github.io/wvw/?report=20260921-205411-b4g7",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 43,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260907-195404-bhha",
       "title": "Flowsn",
       "commanders": [
